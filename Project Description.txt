@@ -1,6 +1,0 @@
-This flutter apps is about food. It has following functions:
-- Offline App
-- No state management is used so app wil lose its properties if app is closed
-- User have different food categories
-- Internet is required to load the images
-- User can mark the food items as favorite
