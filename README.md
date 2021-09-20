@@ -1,6 +1,6 @@
 # meals_app
 
-A new Flutter project.
+A new Flutter project. This is an app which provides you information about the meals like ingredients and how to cook. The data is saved locally in the app (file format) and you will need the internet to load the images of the meals.
 
 ## Getting Started
 
